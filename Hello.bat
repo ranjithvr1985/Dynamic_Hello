@@ -1,3 +1,3 @@
 echo "Hello world : date is %date% : time is %time% "
 
-I am in defect branch
+I am in feature branch
